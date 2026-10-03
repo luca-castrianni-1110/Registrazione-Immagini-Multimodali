@@ -1,5 +1,5 @@
 # Registrazione-Immagini-Multimodali
-istema di registrazione di immagini multimodali tramite massimizzazione della Mutua Informazione e ottimizzazione (SciPy)
+Sistema di registrazione di immagini multimodali tramite massimizzazione della Mutua Informazione e ottimizzazione (SciPy)
 
 
 ## Guida Completa all'Utilizzo e Architettura
